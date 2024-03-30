@@ -12,7 +12,6 @@
               <span class="nav-text">Home</span>
             </a>
           </li>
-
           <li class="nav-item">
             <b></b>
             <b></b>
@@ -21,7 +20,6 @@
               <span class="nav-text">Profile</span>
             </a>
           </li>
-
           <li class="nav-item">
             <b></b>
             <b></b>
@@ -30,7 +28,6 @@
               <span class="nav-text">Schedule</span>
             </a>
           </li>
-
           <li class="nav-item">
             <b></b>
             <b></b>
@@ -39,7 +36,6 @@
               <span class="nav-text">Activities</span>
             </a>
           </li>
-
           <li class="nav-item">
             <b></b>
             <b></b>
@@ -50,7 +46,6 @@
           </li>
         </ul>
       </nav>
-
       <section class="content">
         <div class="left-content">
           <div class="activities">
@@ -62,35 +57,30 @@
                   <h3>Tennis</h3>
                 </div>
               </div>
-
               <div class="image-container img-two">
                 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/3bab6a71-c842-4a50-9fed-b4ce650cb478" alt="hiking" />
                 <div class="overlay">
                   <h3>Hiking</h3>
                 </div>
               </div>
-
               <div class="image-container img-three">
                 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/c8e88356-8df5-4ac5-9e1f-5b9e99685021" alt="running" />
                 <div class="overlay">
                   <h3>Running</h3>
                 </div>
               </div>
-
               <div class="image-container img-four">
                 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/69437d08-f203-4905-8cf5-05411cc28c19" alt="cycling" />
                 <div class="overlay">
                   <h3>Cycling</h3>
                 </div>
               </div>
-
               <div class="image-container img-five">
                 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/e1a66078-1927-4828-b793-15c403d06411" alt="yoga" />
                 <div class="overlay">
                   <h3>Yoga</h3>
                 </div>
               </div>
-
               <div class="image-container img-six">
                 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7568e0ff-edb5-43dd-bff5-aed405fc32d9" alt="swimming" />
                 <div class="overlay">
@@ -99,7 +89,6 @@
               </div>
             </div>
           </div>
-
           <div class="left-bottom">
             <div class="weekly-schedule">
               <h1>Weekly Schedule</h1>
@@ -120,7 +109,6 @@
                   </div>
                   <button class="btn">Join</button>
                 </div>
-
                 <div class="day-and-activity activity-two">
                   <div class="day">
                     <h1>15</h1>
@@ -135,7 +123,6 @@
                   </div>
                   <button class="btn">Join</button>
                 </div>
-
                 <div class="day-and-activity activity-three">
                   <div class="day">
                     <h1>17</h1>
@@ -151,7 +138,6 @@
                   </div>
                   <button class="btn">Join</button>
                 </div>
-
                 <div class="day-and-activity activity-four">
                   <div class="day">
                     <h1>18</h1>
@@ -171,7 +157,6 @@
                 </div>
               </div>
             </div>
-
             <div class="personal-bests">
               <h1>Personal Bests</h1>
               <div class="personal-bests-container">
@@ -191,7 +176,6 @@
             </div>
           </div>
         </div>
-
         <div class="right-content">
           <div class="user-info">
             <div class="icon-container">
@@ -201,7 +185,6 @@
             <h4>Kelsey Miller</h4>
             <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/40b7cce2-c289-4954-9be0-938479832a9c" alt="user" />
           </div>
-
           <div class="active-calories">
             <h1 style="align-self: flex-start">Active Calories</h1>
             <div class="active-calories-container">
@@ -217,7 +200,6 @@
               </div>
             </div>
           </div>
-
           <div class="mobile-personal-bests">
             <h1>Personal Bests</h1>
             <div class="personal-bests-container">
@@ -235,7 +217,6 @@
               </div>
             </div>
           </div>
-
           <div class="friends-activity">
             <h1>Friends Activity</h1>
             <div class="card-container">
@@ -247,7 +228,6 @@
                 <img class="card-img" src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/bef54506-ea45-4e42-a1b6-23a48f61c5e8" alt="" />
                 <p>We completed the 30-Day Running Streak Challenge!🏃‍♀️🎉</p>
               </div>
-
               <div class="card card-two">
                 <div class="card-user-info">
                   <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/42616ef2-ba96-49c7-80ea-c3cf1e2ecc89" alt="" />
